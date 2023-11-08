@@ -20,3 +20,4 @@ skip CI without delete
 
 commit 1 with skip ci
 commit with skip ci
+another commit with no skip ci
