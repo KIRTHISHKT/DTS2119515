@@ -4,7 +4,10 @@ trigger:
       - main
       - test
 
-pr: none
+pr:
+  - main
+  - test
+
 pool:
   vmImage: ubuntu-latest
 
