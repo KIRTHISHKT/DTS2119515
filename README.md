@@ -12,4 +12,8 @@ new commit
 skip CI without delete 
 no skip
 
-with skip CI but no delete branch
+
+
+
+
+skip CI without delete 
