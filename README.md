@@ -8,3 +8,5 @@ another
 test
 
 new commit
+
+skip CI without delete 
