@@ -6,7 +6,7 @@
 trigger:
  tags:
    include:
-   - kuva
+   - kuva@*
 
 pool:
   vmImage: ubuntu-latest
