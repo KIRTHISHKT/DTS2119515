@@ -7,7 +7,7 @@ name: $[replace(variables['Build.SourceBranchName'], '@', '-')]
 trigger:
  tags:
    include:
-   - kuva
+   - test
 
 pool:
   vmImage: ubuntu-latest
