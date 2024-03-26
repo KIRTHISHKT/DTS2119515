@@ -7,7 +7,7 @@ name: $[replace(variables['Build.SourceBranchName'], '@', '-')]
 trigger:
  tags:
    include:
-   - refs/tags/@test/atm@*
+   - refs/tags/@test/atm-money@*
 
 pool:
   vmImage: ubuntu-latest
